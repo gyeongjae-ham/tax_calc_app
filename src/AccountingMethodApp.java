@@ -23,25 +23,25 @@ public class AccountingMethodApp {
         System.out.println("Dividend 3 : " + getDividend3());
     }
 
-    private static double getDividend1() {
+    public static double getDividend1() {
         return getIncome() * 0.5;
     }
-    private static double getDividend2() {
+    public static double getDividend2() {
         return getIncome() * 0.3;
     }
-    private static double getDividend3() {
+    public static double getDividend3() {
         return getIncome() * 0.2;
     }
 
-    private static double getIncome() {
+    public static double getIncome() {
         return valueOfSupply - getExpense();
     }
 
-    private static double getExpense() {
+    public static double getExpense() {
         return valueOfSupply * expenseRate;
     }
 
-    private static double getTotal() {
+    public static double getTotal() {
         return valueOfSupply + getVat();
     }
 
