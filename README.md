@@ -1,0 +1,3 @@
+# tax_calc_app
+App for tax calculate with java(java practice app)
+Method, inheritate, object programming etc...
