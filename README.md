@@ -7,3 +7,7 @@ App for tax calculate with java(java practice app)
 - [ ] interface
 - [ ] 제어문
 - [ ] 예외 처리
+
+Function | Method | inheritance | object programming | interface
+:------------ | :-------------| :-------------| :-------------| :-------------
+done | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark: | :heavy_check_mark:
