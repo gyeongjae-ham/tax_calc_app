@@ -2,8 +2,8 @@
 
 App for tax calculate with java(java practice app)
 - Method [o]
-- inheritance []
+- inheritance [ ]
 - object oriented programming [o]
-- interface []
-- 제어문 []
-- 예외 처리 []
+- interface [ ]
+- 제어문 [ ]
+- 예외 처리 [ ]
