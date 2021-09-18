@@ -6,7 +6,7 @@ App for tax calculate with java(java practice app)
 - [x] object oriented programming [o]
 - [x] interface
 - [x] 제어문
-- [ ] 예외 처리
+- [x] 예외 처리
 
 types
 
