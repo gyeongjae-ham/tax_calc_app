@@ -23,3 +23,8 @@ types
 - Array
 - Date
 - File .. 등등
+
+## next step
+- spring
+- spring boot
+- jpa .. 등등
